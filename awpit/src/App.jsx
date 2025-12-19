@@ -679,7 +679,7 @@ function App() {
     <div className="flex flex-col items-center justify-center min-h-screen p-4 sm:p-6 bg-gray-100 dark:bg-gray-900 transition-colors">
             {" "}
       <h1 className="text-4xl md:text-5xl font-extrabold mb-8 text-indigo-700 dark:text-indigo-300 tracking-wider">
-              Outfit Generator   {" "}
+              Random Outfit Generator   {" "}
       </h1>
           {/* Toast Notification */}    {" "}
       {toast && (
